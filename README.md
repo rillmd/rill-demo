@@ -1,4 +1,12 @@
-# Rill Demo Vault
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/rill-logo-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/rill-logo-light.svg">
+    <img alt="Rill" src="assets/rill-logo-light.svg" height="60">
+  </picture>
+</p>
+
+# Demo Vault
 
 This is a demo knowledge repository for [Rill](https://github.com/rillmd/rill), a voice journal and knowledge management system powered by Claude Code.
 
